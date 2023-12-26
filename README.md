@@ -8,11 +8,11 @@
 ## Work in ga 
 BattleEye:  
 PUBG  
-EFT    
+EFT     
 R    
 Unturne 
 Arma 3    
-Fortnite 
+Fortnite
 
 Easy Anti-cheat
 
