@@ -8,11 +8,11 @@
 
 ## Work in games -
   
-BattleEye:     
+BattleEye:      
 PUBG  
 EFT
 
-R6:S
+R6:
 Unturned 
 Arma 3
 Fortnite
