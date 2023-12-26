@@ -9,10 +9,10 @@
 BattleEye:  
 PUBG   
 EFT               
-R   
+R  
 Untu      
 Arma 3
-Fortn
+Fortn 
 Easy Anti-chea  
 Ape
 Rust
