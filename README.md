@@ -10,12 +10,12 @@
 BattleEye:    
 PUBG  
 EFT    
-R 
+R  
 Unturned 
 Arma 3   
 Fortnite 
 
-Easy Anti-cheat:
+Easy Anti-cheat
 
 Apex
 Rust
