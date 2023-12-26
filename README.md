@@ -9,8 +9,8 @@
 BattleEye 
 PUBG   
 EFT             
-R    
-Untu         
+R   
+Untu          
 A
 Fortn  
 Easy Anti-chea     
