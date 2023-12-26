@@ -10,10 +10,10 @@ BattleEye
 PUBG    
 EFT           
 R    
-Untu     
+Untu    
 Fortn        
 Easy Anti-chea     
-
+ 
 Ru
 SCUM 
 Dead by Daylight
