@@ -10,8 +10,8 @@
   
 BattleEye:  
 PUBG 
-EFT 
-D
+EFT  
+
 R6:Siege
 Unturned
 Arma 3
