@@ -9,10 +9,10 @@
 BattleEye:    
 PUBG   
 EFT      
-R  
+R   
 Untu  
 Arma 3       
-Fortnit
+Fortni
 Easy Anti-chea  
 
 Apex
