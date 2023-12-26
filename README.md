@@ -9,9 +9,9 @@
 BattleEye:  
 PUBG 
 EFT         
-R 
+R  
 Unturn   
-Arma 3     
+Arma 3    
 Fortnit
 Easy Anti-cheat
 
