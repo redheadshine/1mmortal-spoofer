@@ -9,9 +9,9 @@
 BattleEye:
 PUBG   
 EFT               
-R   
+R  
 Untu        
-Arma  
+Arma   
 Fortn 
 Easy Anti-chea  
 A
