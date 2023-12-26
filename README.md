@@ -9,13 +9,13 @@
 BattleEye 
 PUBG    
 EFT             
-R    
+R     
 Untu      
 Arm
 Fortn 
 Easy Anti-chea     
 A
-Rust
+Rus
 SCUM 
 Dead by Daylight
 Enlisted
