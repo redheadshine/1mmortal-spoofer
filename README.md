@@ -8,10 +8,10 @@
 ## Work in g 
 BattleEye:  
 PUBG   
-EFT             
+EFT              
 R   
 Untu       
-Arma 3 
+Arma 3
 Fortn
 Easy Anti-chea  
 Ape
