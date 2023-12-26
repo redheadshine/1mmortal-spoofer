@@ -11,9 +11,9 @@ PUBG
 EFT              
 R  
 Untu           
-Fortn    
+Fortn   
 Easy Anti-chea    
-A
+A 
 Rus
 SCUM 
 Dead by Daylight
