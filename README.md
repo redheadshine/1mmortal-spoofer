@@ -8,8 +8,8 @@
 
 ## Work in games - 
  
-BattleEye: 
-PUBG  
+BattleEye:  
+PUBG 
 EFT 
 Da
 R6:Siege
