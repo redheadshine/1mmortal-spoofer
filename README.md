@@ -11,8 +11,8 @@ PUBG
 EFT     
 R   
 Unturne 
-Arma 3     
-Fortnite
+Arma 3      
+Fortnit
 
 Easy Anti-cheat
 
