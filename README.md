@@ -8,10 +8,10 @@
 ## Work in g 
 BattleEye        
 PUBG   
-EFT           
+EFT          
 R     
 Untu 
-Fortn        
+Fortn         
 Easy Anti-chea     
  
 Ru
