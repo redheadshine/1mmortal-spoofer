@@ -11,8 +11,8 @@ PUBG
 EFT      
 R   
 Untu  
-Arma 3       
-Fortni
+Arma 3      
+Fortni 
 Easy Anti-chea  
 
 Apex
