@@ -10,8 +10,8 @@ BattleEye:
 PUBG  
 EFT               
 R   
-Untu       
-Arma 3
+Untu        
+Arma 
 Fortn 
 Easy Anti-chea  
 A
