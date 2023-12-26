@@ -11,8 +11,8 @@ PUBG
 EFT              
 R    
 Untu        
-Arma
-Fortn 
+Arma 
+Fortn
 Easy Anti-chea  
 A
 Rust
