@@ -9,9 +9,9 @@
 ## Work in ga 
 BattleEye:    
 PUBG 
-EFT   
+EFT    
 R  
-Unturned
+Unturne
 Arma 3    
 Fortnite 
 
