@@ -8,9 +8,9 @@
 ## Work in ga
 BattleEye:   
 PUBG  
-EFT       
+EFT        
 R   
-Untu      
+Untu     
 Arma 3     
 Fortni
 Easy Anti-chea  
