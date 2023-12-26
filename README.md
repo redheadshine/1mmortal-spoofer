@@ -9,10 +9,10 @@
 ## Work in ga 
 BattleEye:    
 PUBG 
-EFT    
+EFT   
 R  
 Unturned
-Arma 3   
+Arma 3    
 Fortnite 
 
 Easy Anti-cheat
