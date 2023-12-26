@@ -9,11 +9,11 @@
 BattleEye   
 PUBG   
 EFT             
-R   
+R  
 Untu       
 Arma 
 Fortn 
-Easy Anti-chea  
+Easy Anti-chea   
 A
 Rust
 SCUM 
