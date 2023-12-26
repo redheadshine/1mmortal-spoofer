@@ -9,12 +9,12 @@
 BattleEye:  
 PUBG    
 EFT               
-R  
+R   
 Untu     
 Arma 3 
 Fortn 
 Easy Anti-chea  
-Ap
+A
 Rust
 SCUM 
 Dead by Daylight
