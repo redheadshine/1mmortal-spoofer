@@ -8,12 +8,12 @@
 ## Work in ga
 BattleEye:  
 PUBG  
-EFT        
+EFT         
 R 
 Unturn   
 Arma 3    
 Fortnit 
-Easy Anti-cheat 
+Easy Anti-cheat
 
 Apex
 Rust
