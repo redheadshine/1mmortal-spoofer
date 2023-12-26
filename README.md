@@ -10,13 +10,13 @@ BattleEye:
 PUBG    
 EFT               
 R  
-Untu      
+Untu     
 Arma 3 
 Fortn 
 Easy Anti-chea  
 Ap
 Rust
-SCUM
+SCUM 
 Dead by Daylight
 Enlisted
 Fortnite
