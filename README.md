@@ -10,9 +10,9 @@ BattleEye:
 PUBG  
 EFT     
 R  
-Unturne 
+Unturne
 Arma 3      
-Fortnit
+Fortnit 
 
 Easy Anti-cheat 
 
