@@ -8,8 +8,8 @@
 ## Work in ga 
 BattleEye:  
 PUBG 
-EFT         
-R  
+EFT          
+R 
 Unturn   
 Arma 3    
 Fortnit
