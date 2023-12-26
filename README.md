@@ -6,9 +6,9 @@
 
 ![immortal_322_hM574sNMraQMiMRaGnmZ](https://github.com/NIcecz/hwidspoofer/assets/117065400/ 4422591c-9ecd-40df-89b2-4832d266cbe9)
    
-## Work in ga
+## Work in ga 
 BattleEye:    
-PUBG  
+PUBG 
 EFT    
 R  
 Unturned
