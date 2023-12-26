@@ -11,8 +11,8 @@ PUBG
 EFT              
 R   
 Untu           
-A
-Fortn  
+
+Fortn   
 Easy Anti-chea    
 A
 Rus
