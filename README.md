@@ -10,8 +10,8 @@
     
 BattleEye:     
 PUBG   
-EFT 
-R6:
+EFT  
+R6
 Unturned
 Arma 3
 Fortnite
