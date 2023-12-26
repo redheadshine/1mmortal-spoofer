@@ -9,8 +9,8 @@
 ## Work in gam
 BattleEye:    
 PUBG   
-EFT   
-R  
+EFT    
+R 
 Unturned 
 Arma 3  
 Fortnite
