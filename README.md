@@ -9,10 +9,10 @@
 BattleEye 
 PUBG     
 EFT             
-R       
+R      
 Untu     
 A 
-Fortn
+Fortn 
 Easy Anti-chea     
 A
 Rus
