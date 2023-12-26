@@ -8,12 +8,12 @@
 ## Work in g 
 BattleEye 
 PUBG    
-EFT           
+EFT            
 R    
 Untu       
 Fortn         
 Easy Anti-chea    
-A 
+A
 Ru
 SCUM 
 Dead by Daylight
