@@ -9,10 +9,10 @@
 ## Work in games - 
  
 BattleEye:  
-PUBG  
+PUBG   
 EFT
  
-R6:Sie
+R6:Si
 Unturned 
 Arma 3
 Fortnite
