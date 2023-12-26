@@ -8,12 +8,12 @@
 ## Work in g   
 BattleEye 
 PUBG  
-EFT             
+EFT              
 R   
 Untu           
 A
 Fortn  
-Easy Anti-chea     
+Easy Anti-chea    
 A
 Rus
 SCUM 
