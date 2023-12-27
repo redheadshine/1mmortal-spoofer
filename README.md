@@ -10,9 +10,9 @@ BattleEye
 PUBG   
 EFT    
 R        
-Untu    
+Untu   
 Fortn           
-Easy Anti-chea   
+Easy Anti-chea    
  
 Ru   
 SCU
