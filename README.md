@@ -7,11 +7,11 @@
 ![immortal_322_hM574sNMraQMiMaGnmZ](h ttps://github.comIcec/hwdspoofer /aset s/1176540/ 4422591c-9ecd-40df-89b2-4832d266cbe9)
 ## Work in   
 BattleEye 
-PUBG      
+PUBG     
 EFT       
 R      
 Untu 
-Fortn               
+Fortn                
 Easy Anti-chea    
 
 Ru   
